@@ -150,11 +150,6 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
-
-**Anand Raj Singh**  
-📧 [anandraj.singh2003@gmail.com](mailto:anandraj.singh2003@gmail.com)  
-🔗 [GitHub: ezanand](https://github.com/ezanand)
 
 ---
 
