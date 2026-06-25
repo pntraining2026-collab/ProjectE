@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node backend/server.js",
     "dev": "nodemon backend/server.js",
-    "seed": "node seeder.js"
+    "seed": "node seeder.js",
+    "build": "npm run build",
+    "test": "npm test"
   },
   "keywords": [],
   "author": "",
